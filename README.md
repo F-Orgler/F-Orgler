@@ -12,36 +12,42 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+🔭 Soon working on a physics-informed ML project combining differential equations and neural networks.
 -->
 # Hi, I'm Filo 👋
 
 MSc Student in Data Science & AI at FH St. Pölten  
-Background in Mathematics & Physics — including a thesis in theoretical quantum mechanics  
+Background in Mathematics & Physics including a thesis in theoretical quantum mechanics  
 Based in Vienna, Austria
 
 ## About Me
 
-I bring an uncommon combination: strong mathematical-physical foundations and 
+I bring strong mathematical-physical foundations and 
 hands-on ML experience from an applied programme. Beyond building models, I am 
 interested in how AI systems are designed and governed — from enterprise architecture to responsible and trustworthy AI.
 
 🧐 I'm particularly interested in ML for scientific and technical domains — energy, 
 climate tech, industrial R&D, and medical applications.  
-🔭 I'm currently working on a physics-informed ML project combining differential equations and neural networks.  
-🌱 I'm deepening my knowledge in ML engineering, AI governance, and scientific machine learnin.  
-👯 I'm looking to collaborate on ML projects at the intersection of physics, mathematics, and real-world applications — especially in energy, climate tech, medical applications or scientific computing
+🔭 I'm currently working on the generation of synthetic data and on training a wellperforming DeepRacer-Agent.  
+🌱 I'm deepening my knowledge in ML engineering, Reinforcement Learning, AI governance, and scientific machine learning.  
+👯 I'm looking to collaborate on ML projects at the intersection of physics, mathematics, and real-world applications, especially in energy, climate tech, medical applications or scientific computing.
 
 ## Projects
 
 | Project | Description | Tech |
 |---|---|---|
-| Federated Learning | Fair income prediction using federated ML for banking | Python, Flower |
+| Federated Learning | Fair income prediction using federated ML for banking | Python, Flower, AIF360, Fairlearn |
 | Explainable AI | Readmission prediction of diabetes patients using XAI tools to identify most important features | SHAP, eli5, scikit-learn |
+| NLP | Compare different Models for summarization, Q&A and text-generation | Models from Hugging Face API |
+| Deep Reinforcement Learning | Comparison of **DQN** and **PPO** on the [LunarLander-v3](https://gymnasium.farama.org/environments/box2d/lunar_lander/) environment from Gymnasium | stable-baselines3, PyTorch, TensorBoard | 
 
 ## Skills & Tools
 
-`Python` `scikit-learn` `TensorFlow` `XGBoost` `Pandas` `NumPy`  
-`SQL` `Flask` `LaTeX` `Mathematica`  
+`Python` `scikit-learn` `TensorFlow` `XGBoost` `Pandas` `NumPy` `PyTorch` `Matplotlib` `seaborn`
+
+`SQL` `Flask` `LaTeX` `Mathematica` `TensorBoard` `Hugging Face`
+
 `TOGAF` `ArchiMate` `UML`
 
 ## Connect
